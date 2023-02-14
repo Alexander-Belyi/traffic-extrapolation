@@ -137,3 +137,5 @@ dmypy.json
 
 */catboost_info
 */temp
+
+*/.DS_Store
